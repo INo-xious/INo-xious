@@ -20,7 +20,7 @@
 - Expected graduation: **2030**
 - Based in **Osaka, Japan**, and interested in opportunities across the Kansai area
 - Developing my foundations in software engineering, data automation, and system design
-- Exploring robotics through university club activities
+- [Exploring robotics through university club activities](https://github.com/Rione)
 - Currently experimenting broadly before choosing a long-term specialization
 
 ## Current Focus
