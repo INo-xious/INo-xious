@@ -36,6 +36,10 @@ Explore robotics           Strengthen fundamentals     Collaborate with others
 
 A Python project that searches Indonesian Stock Exchange disclosures, downloads relevant PDFs, reconstructs complex ownership tables, and exports structured Excel workbooks. The project combines browser automation, positional PDF parsing, validation, and a Streamlit interface.
 
+### [MarveIous Style Engine](https://github.com/INo-xious/marvelous-playstyle-engine)
+
+A from-scratch C++ chess engine with a Python data pipeline that learns move preferences from the public Chess.com history of MarveIous. The project combines legal move generation, UCI engine support, alpha-beta search, PGN parsing, style-book personalization, baseline evaluation, and a local browser chessboard for offline study and post-game analysis.
+
 ## Skills and Tools
 
 ### Main Programming Languages
