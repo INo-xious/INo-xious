@@ -23,12 +23,6 @@
 - [Exploring robotics through university club activities](https://github.com/Rione)
 - Currently experimenting broadly before choosing a long-term specialization
 
-## Current Focus
-
-```text
-Build reliable software    Learn from real projects    Document the process
-Explore robotics           Strengthen fundamentals     Collaborate with others
-```
 
 ## Featured Work
 
