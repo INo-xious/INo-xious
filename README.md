@@ -119,12 +119,6 @@ A from-scratch C++ chess engine with a Python data pipeline that learns move pre
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
-## Exploring Next
-
-- Robotics software and intelligent systems
-- AI and machine learning fundamentals
-- Data engineering and automation
-- Collaborative software development
 
 ## Beyond Code
 
