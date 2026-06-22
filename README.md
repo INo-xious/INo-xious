@@ -34,6 +34,10 @@ A Python project that searches Indonesian Stock Exchange disclosures, downloads 
 
 A from-scratch C++ chess engine with a Python data pipeline that learns move preferences from the public Chess.com history of MarveIous. The project combines legal move generation, UCI engine support, alpha-beta search, PGN parsing, style-book personalization, baseline evaluation, and a local browser chessboard for offline study and post-game analysis.
 
+### [Personal Website](https://github.com/INo-xious/marvel-harisson)
+
+Personal portfolio for Marvel Harisson, built with Next.js and TypeScript.
+
 ## Skills and Tools
 
 ### Main Programming Languages
