@@ -42,6 +42,9 @@ Personal portfolio for Marvel Harisson, built with Next.js and TypeScript.
 
 Ongoing.
 
+### [ROS2 Crane Arm Control](https://github.com/Gil-gil-glitch/ros2_crane_plus_ws/tree/main)
+Ongoing ROS2 practice.
+
 ## Skills and Tools
 
 ### Main Programming Languages
