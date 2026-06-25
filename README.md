@@ -38,10 +38,6 @@ A from-scratch C++ chess engine with a Python data pipeline that learns move pre
 
 Personal portfolio for Marvel Harisson, built with Next.js and TypeScript.
 
-### [AI Algorithm For Pacman](https://github.com/INo-xious/packman-game-ai-agent)
-
-A Python AI agent for a Processing-based Pac-Man game, using BFS pathfinding, ghost avoidance, power-pellet planning, and score-maximizing ghost hunting.
-
 ## Skills and Tools
 
 ### Main Programming Languages
