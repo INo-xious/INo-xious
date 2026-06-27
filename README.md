@@ -40,7 +40,7 @@ Personal portfolio for Marvel Harisson, built with Next.js and TypeScript.
 
 ### [Pacman Algorithm](https://github.com/INo-xious/packman-game-ai-agent)
 
-Ongoing.
+A Pac-Man AI agent for a simplified Pac-Man game that uses pathfinding and decision-making algorithms to navigate the maze, collect pellets, avoid ghosts, and choose safer routes. The agent uses BFS-based search to find reachable targets and evaluate movement options in real time.
 
 ### [ROS2 Crane Arm Control](https://github.com/Gil-gil-glitch/ros2_crane_plus_ws/tree/main)
 Ongoing ROS2 practice.
@@ -57,7 +57,6 @@ Ongoing ROS2 practice.
 
 ![ROS2 Humble](https://img.shields.io/badge/ROS2-Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Infrastructure
 
@@ -71,7 +70,6 @@ Ongoing ROS2 practice.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### System Design
 
@@ -90,7 +88,6 @@ Ongoing ROS2 practice.
 ### Frameworks, Libraries, and Platforms
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
