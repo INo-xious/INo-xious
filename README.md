@@ -42,7 +42,7 @@ Personal portfolio for Marvel Harisson, built with Next.js and TypeScript.
 
 A Pac-Man AI agent for a simplified Pac-Man game that uses pathfinding and decision-making algorithms to navigate the maze, collect pellets, avoid ghosts, and choose safer routes. The agent uses BFS-based search to find reachable targets and evaluate movement options in real time.
 
-### [ROS2 Crane Arm Control](https://github.com/Gil-gil-glitch/ros2_crane_plus_ws/tree/main)
+### [ROS2 Crane Arm Control](https://github.com/Rione-at-Home/ros2_crane_and_turtle_ws)
 Ongoing ROS2 practice.
 
 ## Skills and Tools
