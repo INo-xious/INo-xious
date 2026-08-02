@@ -38,9 +38,9 @@ A from-scratch C++ chess engine with a Python data pipeline that learns move pre
 
 Personal portfolio for Marvel Harisson, built with Next.js and TypeScript.
 
-### [Pacman Algorithm](https://github.com/INo-xious/packman-game-ai-agent)
+### [Stockbit MCP](https://github.com/INo-xious/stockbit-mcp)
 
-A Pac-Man AI agent for a simplified Pac-Man game that uses pathfinding and decision-making algorithms to navigate the maze, collect pellets, avoid ghosts, and choose safer routes. The agent uses BFS-based search to find reachable targets and evaluate movement options in real time.
+A Stockbit-native MCP server and personal market-monitoring daemon that screens broker activity, tracks real-time price and volume conditions, and sends trustworthy trading alerts.
 
 ### [ROS2 Crane Arm Control](https://github.com/Rione-at-Home/ros2_crane_and_turtle_ws)
 Ongoing ROS2 practice.
