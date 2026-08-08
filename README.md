@@ -86,8 +86,12 @@
 
 
 ## Beyond Code
-
-I enjoy chess, Pokemon, FPS games, and Minecraft redstone.
+Mythical Immortal 150⭐️ | Mobile Legends Bang Bang
+Peak Ascendant II | Valorant
+Diamond | Rocket League
+Peak Top 50 | Pokemon Showdown OU
+Peak 2000 rating (current: 1500) | Chess.com
+16 Minutes | Any % Glitches Set Seed | Minecraft Java Edition
 
 ---
 
