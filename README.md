@@ -4,8 +4,10 @@
 
 <div align="center">
   <h3>First-year undergraduate at Ritsumeikan University | Osaka, Japan</h3>
-  <p>Building strong software foundations, exploring robotics, and learning in public.</p>
-
+  <p>Currently working in iCom GIKKEN.</p>
+  <a href="https://marvelharisson.com">
+    <img src="https://img.shields.io/badge/Website-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
   <a href="https://www.linkedin.com/in/marvel-harisson-4102b7345/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -23,27 +25,6 @@
 - [Exploring robotics through university club activities](https://github.com/Rione)
 - Currently experimenting broadly before choosing a long-term specialization
 
-
-## Featured Work
-
-### [IDX Ownership Data Pipeline](https://github.com/INo-xious/idx-ownership-data-pipeline)
-
-A Python project that searches Indonesian Stock Exchange disclosures, downloads relevant PDFs, reconstructs complex ownership tables, and exports structured Excel workbooks. The project combines browser automation, positional PDF parsing, validation, and a Streamlit interface.
-
-### [Personal Chess Engine](https://github.com/INo-xious/marvelous-playstyle-engine)
-
-A from-scratch C++ chess engine with a Python data pipeline that learns move preferences from the public Chess.com history of MarveIous. The project combines legal move generation, UCI engine support, alpha-beta search, PGN parsing, style-book personalization, baseline evaluation, and a local browser chessboard for offline study and post-game analysis.
-
-### [Personal Website](https://github.com/INo-xious/marvel-harisson)
-
-Personal portfolio for Marvel Harisson, built with Next.js and TypeScript.
-
-### [Stockbit MCP](https://github.com/INo-xious/stockbit-mcp)
-
-A Stockbit-native MCP server and personal market-monitoring daemon that screens broker activity, tracks real-time price and volume conditions, and sends trustworthy trading alerts.
-
-### [ROS2 Crane Arm Control](https://github.com/Rione-at-Home/ros2_crane_and_turtle_ws)
-Ongoing ROS2 practice.
 
 ## Skills and Tools
 
