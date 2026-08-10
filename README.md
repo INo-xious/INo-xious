@@ -86,13 +86,12 @@
 
 
 ## Beyond Code
-Mythical Immortal 150⭐️ | Mobile Legends Bang Bang
-Peak Ascendant II | Valorant
-Diamond | Rocket League
-Peak Top 50 | Pokemon Showdown OU
-Peak 2000 rating (current: 1500) | Chess.com
-16 Minutes | Any % Glitches Set Seed | Minecraft Java Edition
-
+- Mythical Immortal 150⭐️ | Mobile Legends Bang Bang
+- Peak Ascendant II | Valorant
+- Diamond | Rocket League
+- Peak Top 50 | Pokemon Showdown OU
+- Peak 2000 rating (current: 1500) | Chess.com
+- 16 Minutes | Any % Glitches Set Seed | Minecraft Java Edition
 ---
 
 <div align="center">
