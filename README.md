@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Marvel_Logo.svg" alt="Marvel Harisson developer profile banner" width="100%" />
+  <img src="./profpic.gif" alt="Marvel Harisson developer profile banner" width="100%" />
 </div>
 
 <div align="center">
