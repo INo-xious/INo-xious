@@ -83,16 +83,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
-
-## Beyond Code
-- Mythical Immortal 150⭐️ | Mobile Legends Bang Bang
-- Peak Ascendant II | Valorant
-- Diamond | Rocket League
-- Peak Top 50 | Pokemon Showdown OU
-- Peak 2000 rating (current: 1500) | Chess.com
-- 16 Minutes | Any % Glitchless Set Seed | Minecraft Java Edition
----
-
 <div align="center">
   <b>Learning seriously, building consistently, and keeping the direction open.</b>
 </div>
