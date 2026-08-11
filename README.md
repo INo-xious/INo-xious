@@ -91,7 +91,7 @@
 - Diamond | Rocket League
 - Peak Top 50 | Pokemon Showdown OU
 - Peak 2000 rating (current: 1500) | Chess.com
-- 16 Minutes | Any % Glitches Set Seed | Minecraft Java Edition
+- 16 Minutes | Any % Glitchless Set Seed | Minecraft Java Edition
 ---
 
 <div align="center">
