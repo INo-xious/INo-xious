@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>First-year undergraduate at Ritsumeikan University | Osaka, Japan</h3>
-  <p>Currently working in iCom GIKKEN.</p>
+  <p>Currently working in iCOM GIKKEN.</p>
   <a href="https://marvelharisson.com">
     <img src="https://img.shields.io/badge/Website-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
@@ -21,7 +21,6 @@
 - First-year undergraduate student at **Ritsumeikan University, Osaka Ibaraki Campus**
 - Expected graduation: **2030**
 - Based in **Osaka, Japan**, and interested in opportunities across the Kansai area
-- Developing my foundations in software engineering, data automation, and system design
 - [Exploring robotics through university club activities](https://github.com/Rione)
 - Currently experimenting broadly before choosing a long-term specialization
 
