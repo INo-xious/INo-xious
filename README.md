@@ -25,6 +25,23 @@
 - Currently experimenting broadly before choosing a long-term specialization
 
 
+## Open Source Contributions
+
+Merged contributions to open-source projects in computer vision, robotics, and Python tooling.
+
+| Project | Merged PRs |
+| --- | --- |
+| [Roboflow RF-DETR](https://github.com/roboflow/rf-detr) | [#1569](https://github.com/roboflow/rf-detr/pull/1569), [#1570](https://github.com/roboflow/rf-detr/pull/1570), [#1571](https://github.com/roboflow/rf-detr/pull/1571) |
+| [Roboflow Supervision](https://github.com/roboflow/supervision) | [#2639](https://github.com/roboflow/supervision/pull/2639), [#2640](https://github.com/roboflow/supervision/pull/2640), [#2641](https://github.com/roboflow/supervision/pull/2641) |
+| [Kornia](https://github.com/kornia/kornia) | [#5092](https://github.com/kornia/kornia/pull/5092) |
+| [Optuna](https://github.com/optuna/optuna) | [#6880](https://github.com/optuna/optuna/pull/6880) |
+| [TOMLKit](https://github.com/python-poetry/tomlkit) | [#660](https://github.com/python-poetry/tomlkit/pull/660) |
+| [RobotecAI RAI](https://github.com/RobotecAI/rai) | [#876](https://github.com/RobotecAI/rai/pull/876) |
+| [Rione at Home](https://github.com/Rione-at-Home/ros2_crane_and_turtle_ws) | [#2](https://github.com/Rione-at-Home/ros2_crane_and_turtle_ws/pull/2) |
+| [ROS 2 Crane Plus](https://github.com/Gil-gil-glitch/ros2_crane_plus_ws) | [#3](https://github.com/Gil-gil-glitch/ros2_crane_plus_ws/pull/3), [#6](https://github.com/Gil-gil-glitch/ros2_crane_plus_ws/pull/6) |
+
+[View all merged pull requests](https://github.com/pulls?q=is%3Apr+author%3AINo-xious+is%3Amerged+-user%3AINo-xious+is%3Apublic)
+
 ## Skills and Tools
 
 ### Main Programming Languages
@@ -86,3 +103,4 @@
 <div align="center">
   <b>Learning seriously, building consistently, and keeping the direction open.</b>
 </div>
+
