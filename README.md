@@ -27,12 +27,14 @@
 
 ## Open Source Contributions
 
-Merged contributions to open-source projects in computer vision, robotics, and Python tooling.
+Merged contributions to open-source projects in computer vision, robotics, and developer tooling.
 
 | Project | Merged PRs |
 | --- | --- |
 | [Roboflow RF-DETR](https://github.com/roboflow/rf-detr) | [#1569](https://github.com/roboflow/rf-detr/pull/1569), [#1570](https://github.com/roboflow/rf-detr/pull/1570), [#1571](https://github.com/roboflow/rf-detr/pull/1571) |
 | [Roboflow Supervision](https://github.com/roboflow/supervision) | [#2639](https://github.com/roboflow/supervision/pull/2639), [#2640](https://github.com/roboflow/supervision/pull/2640), [#2641](https://github.com/roboflow/supervision/pull/2641) |
+| [Trimesh](https://github.com/mikedh/trimesh) | [#2630](https://github.com/mikedh/trimesh/pull/2630) |
+| [urfave/cli](https://github.com/urfave/cli) | [#2480](https://github.com/urfave/cli/pull/2480) |
 | [Kornia](https://github.com/kornia/kornia) | [#5092](https://github.com/kornia/kornia/pull/5092) |
 | [Optuna](https://github.com/optuna/optuna) | [#6880](https://github.com/optuna/optuna/pull/6880) |
 | [TOMLKit](https://github.com/python-poetry/tomlkit) | [#660](https://github.com/python-poetry/tomlkit/pull/660) |
